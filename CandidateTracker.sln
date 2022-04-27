@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CandidateTracker.Web", "CandidateTracker.Web\CandidateTracker.Web.csproj", "{BDDFCEC1-7FE8-4A6C-9970-599B2EEBA440}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CandidateTracker.Data", "CandidateTracker.Data\CandidateTracker.Data.csproj", "{E2430ACD-CE4E-4064-885A-5892BA41197C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDDFCEC1-7FE8-4A6C-9970-599B2EEBA440}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDDFCEC1-7FE8-4A6C-9970-599B2EEBA440}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDDFCEC1-7FE8-4A6C-9970-599B2EEBA440}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDDFCEC1-7FE8-4A6C-9970-599B2EEBA440}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2430ACD-CE4E-4064-885A-5892BA41197C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2430ACD-CE4E-4064-885A-5892BA41197C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2430ACD-CE4E-4064-885A-5892BA41197C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2430ACD-CE4E-4064-885A-5892BA41197C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B0226E77-C0F0-40DC-8D8B-7E9329D4EE0E}
+	EndGlobalSection
+EndGlobal
